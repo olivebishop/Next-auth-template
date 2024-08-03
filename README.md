@@ -13,20 +13,20 @@ This is a Next.js authentication template utilizing **Lucia Auth**, **Prisma**, 
 
 ##  TODO
 
- [* ] Install Next.js
- [* ] Install dependencies:
-   [* ] Shadcn
-   [* ] Zod
-   [ ] Prisma
-   [ *] React Hook Form
-  [ ] React Email
- [* ] Create authentication pages using Shadcn
- [ ] Configure Lucia Auth for user authentication
- [ ] Implement password reset and forget password features
- [ ] Integrate magic link sign-in
- [ ] Set up social logins (Google and GitHub)
- [ ] Configure email notifications using Resend/Node Mailer
- [ ] Integrate SMS notifications with Tiara Connect
+- [* ] Install Next.js
+- [* ] Install dependencies:
+  - [* ] Shadcn
+  - [* ] Zod
+  - [ ] Prisma
+  - [*] React Hook Form
+  - [ ] React Email
+- [*] Create authentication pages using Shadcn
+- [ ] Configure Lucia Auth for user authentication
+- [ ] Implement password reset and forget password features
+- [ ] Integrate magic link sign-in
+- [ ] Set up social logins (Google and GitHub)
+- [ ] Configure email notifications using Resend/Node Mailer
+- [ ] Integrate SMS notifications with Tiara Connect
 
 ## Getting Started
 
