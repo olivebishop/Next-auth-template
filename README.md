@@ -27,7 +27,7 @@ This is a Next.js authentication template utilizing **Lucia Auth v3**, **Prisma*
 
 ### Prerequisites
 
-- Node.js (version X.X.X or higher)
+- Node.js (version 17+ or higher)
 - npm
 
 ### Installation
@@ -35,8 +35,14 @@ This is a Next.js authentication template utilizing **Lucia Auth v3**, **Prisma*
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/olivebishop/Next-auth-template
+   cd Next-auth-template
+
+   2. Install Dependacies:
+   Npm i
+
+   3. Run the app
+   NPM run dev
 
 
 ### Acknowledgments
