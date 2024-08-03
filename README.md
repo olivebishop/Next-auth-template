@@ -51,4 +51,4 @@ This is a Next.js authentication template utilizing **Lucia Auth**, **Prisma**, 
 
 
 
-### ----------------------------------------#### With love😎- @ olivebishop------------------------------------------
+### ----------------------------------- With love😎- @ olivebishop------------------------------------------
