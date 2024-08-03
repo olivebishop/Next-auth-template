@@ -1,6 +1,6 @@
 # Next Auth Template
 
-This is a Next.js authentication template utilizing **Lucia Auth**, **Prisma**, **Shadcn**, **React Email**, **Resend/Node Mailer**, **Tiara Connect for SMS**, **Zod**, and **Tailwind CSS**. The goal of this project is to create a comprehensive authentication system that includes features like password reset, magic links, and social logins (e.g., Google and GitHub).
+This is a Next.js authentication template utilizing **Lucia Auth v3**, **Prisma**, **Shadcn**, **React Email**, **Resend/Node Mailer**, **Tiara Connect for SMS**, **Zod**, and **Tailwind CSS**. The goal of this project is to create a comprehensive authentication system that includes features like password reset, magic links, and social logins (e.g., Google and GitHub).
 
 ## Features
 
