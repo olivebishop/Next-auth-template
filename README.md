@@ -15,12 +15,7 @@ This is a Next.js authentication template utilizing **Lucia Auth**, **Prisma**, 
 
 - [* ] Install Next.js
 - [* ] Install dependencies:
-  - [* ] Shadcn
-  - [* ] Zod
-  - [ ] Prisma
-  - [*] React Hook Form
-  - [ ] React Email
-- [*] Create authentication pages using Shadcn
+- [* ] Create authentication pages using Shadcn
 - [ ] Configure Lucia Auth for user authentication
 - [ ] Implement password reset and forget password features
 - [ ] Integrate magic link sign-in
