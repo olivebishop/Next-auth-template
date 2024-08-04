@@ -116,7 +116,7 @@ export default function SignIn() {
         </CardContent>
         <CardFooter className="flex flex-col items-center space-y-2">
           <p className="text-sm text-stone-600 dark:text-stone-400">
-            Don't have an account? <a href="/auth/sign-up" className="text-stone-900 dark:text-stone-100 underline">Sign up</a>
+            Not registered? <a href="/auth/sign-up" className="text-stone-900 dark:text-stone-100 underline">Sign up</a>
           </p>
         </CardFooter>
       </Card>
